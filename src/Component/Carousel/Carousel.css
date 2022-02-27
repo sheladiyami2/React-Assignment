@@ -1,0 +1,25 @@
+.carousel .control-dots .dot{
+background: black;
+border-radius:0%;
+width: 100px;
+height: 2px;
+
+}
+.control-dots
+{
+    margin: 0;
+    padding: 0;
+}
+.carousel.carousel-slider .control-arrow{
+top: 0;
+color: rgb(29, 28, 28);
+font-size: 26px;
+bottom: 0;
+margin-top:190px;
+padding: 10px;
+background-color:grey;
+height: 35px;
+border-radius: 50%;
+display: flex;
+align-items:center;
+}
