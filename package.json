@@ -1,6 +1,6 @@
 {
-  "name": "demo",
   "homepage": "https://sheladiyami2.github.io/React-Assignment",
+  "name": "demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
